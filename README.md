@@ -16,8 +16,6 @@ The repository contains two main files:
 - `categories.md`: Lists skill categories and proficiency levels
 - `detailed-framework.md`: Provides comprehensive descriptions for each skill level
 
-![alt text](AI_skills.png)
-
 ## Usage
 
 Use this framework to:
@@ -26,6 +24,8 @@ Use this framework to:
 3. Plan learning paths
 4. Evaluate team competencies
 5. Structure AI training programs
+
+![AI Skills Map](AI_skills.png)
 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
