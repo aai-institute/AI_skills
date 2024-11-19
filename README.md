@@ -1,18 +1,22 @@
 # AI skills
 
-This repository contains the appliedAI Institute's framework for categorizing AI skills and proficiency levels. The framework is designed to help:
+This repository contains the appliedAI Institute's framework for categorizing AI skills and proficiency levels. 
+The framework is designed to help:
 
-- Define skill requirements for AI use cases
-- Map required competencies for AI positions
 - Enable self-assessment of AI capabilities
 - Identify upskilling needs and learning paths
 - Track professional development in AI
+- Map required competencies for AI positions
+- Define skill requirements for AI use cases
+
 
 ## Structure
 
 The repository contains two main files:
 - `categories.md`: Lists skill categories and proficiency levels
 - `detailed-framework.md`: Provides comprehensive descriptions for each skill level
+
+![alt text](AI_skills.png)
 
 ## Usage
 
